@@ -1,0 +1,7 @@
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\bin\Debug\DS_ImplementationTests.dll
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\bin\Debug\DS_ImplementationTests.pdb
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\bin\Debug\DS_Implementations.exe
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\bin\Debug\DS_Implementations.pdb
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\obj\Debug\DS_ImplementationTests.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\obj\Debug\DS_ImplementationTests.dll
+J:\GitRepo\CSharp_DSA\DS_Implementations\DS_ImplementationTests\obj\Debug\DS_ImplementationTests.pdb
