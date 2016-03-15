@@ -1,0 +1,14 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\bin\Debug\06.LinkedListTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\bin\Debug\06.LinkedListTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\bin\Debug\05.LinkedList.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\bin\Debug\05.LinkedList.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\obj\Debug\06.LinkedListTests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\obj\Debug\06.LinkedListTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\05.LinkedList\06.LinkedListTests\obj\Debug\06.LinkedListTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\bin\Debug\06.LinkedListTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\bin\Debug\06.LinkedListTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\bin\Debug\05.LinkedList.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\bin\Debug\05.LinkedList.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\obj\Debug\06.LinkedListTests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\obj\Debug\06.LinkedListTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\06.LinkedListTests\obj\Debug\06.LinkedListTests.pdb

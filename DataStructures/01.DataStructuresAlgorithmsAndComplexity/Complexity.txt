@@ -1,0 +1,126 @@
+Big O notation definition :
+	The Big O notation is a way to determine how fast an algorithms works when dealing with substantial inputs.
+	For large enough inputs, lower-order terms and constants are dominated by the size of the input itself.
+	Thats when only the order of growth is relevant also known as the asymptotic efficiency of algorithms.
+	Example 1 :
+		If we look at the following polynomial 4 * n + 3.
+		The constants 4 and 3 are ignored, because they won't make a difference with big enough input.
+		The algorithm efficiency is O(n).
+	Example 2 :
+		If we look at the following polynomial 4 * n ^ 2 + 70 * n + 10000000
+		All constants(no matter how big - 10000000, 4, 70) are ignored.
+		The lower term 70 * n is also ignored.
+		So we are left with O( n^2 ) - quadratic algorithm efficiency!!
+Note :
+	All given examples assume that indexing is done in linear time.
+
+01. Add method complexity :
+	
+	public void Add(T item)
+	{
+		var newArr = new T[this.arr.Length + 1];	   --> c1 - runs in constant time.
+		Array.Copy(this.arr, newArr, this.arr.Length); --> c2 * n - linearly goes through the array and copies every item. 
+		newArr[newArr.Length - 1] = item;			   --> c3 - runs in constant time.
+		this.arr = newArr;							   --> c4 - runs in constant time.
+	}
+	
+	c2 * n + c1 + c2 + c3 - if we ignore all constants we get n
+
+	in conclusion : 
+		The Copy method, at the very least, must go through the entire array.
+		In asymptotic notation that means O(n) worst case complexity.
+
+02.03.04. Remove method complexity :
+
+	public T Remove(int index)  														--> the index doesn't matter
+	{
+		T result = this.arr[index];														--> c1
+		var newArr = new T[this.arr.Length - 1];										--> c2
+		Array.Copy(this.arr, newArr, index);											--> c3 * index
+		Array.Copy(this.arr, index + 1, newArr, index, this.arr.Length - index - 1);	--> c4 * (n - index)
+		this.arr = newArr;																--> c5
+		return result;
+	}
+
+	* It makes no difference if the index is 0 or n the current algorithm still goes through the entire array.
+
+	c4 * ( n - index ) + c4 * ( index ) + c1 + c2 + c5 --> after ignoring all constants:
+
+	(n - index) + index == n
+
+	best case :
+		The best case is n = 0.
+		That makes the complexity constant O(1).
+
+	worst and average case :
+		The average and the worst case have the same complexity in this case O(n).
+
+05.06 RemoveFirst and RemoveLast method complexity :
+	
+	public T RemoveFirst()
+	{
+		return this.Remove(0);
+	}
+
+	public T RemoveLast()
+	{
+		return this.Remove(this.Length - 1);
+	}
+
+	* This functions use the Remove function, so they have the same complexity. 
+	Using the constant 0 or this.Length - 1 changes nothing.
+
+	best case :
+		The best case is n = 0
+		That makes the complexity constant O(1)
+
+	worst and average case :
+		The average and the worst case have the same complexity in this case O(n).
+
+07. Length method complexity :
+	
+	public int Length
+	{
+		get
+		{
+			return this.arr.Length; --> c1 constant time.
+		}
+	}
+
+	The run time of this algorithm is a constant O(1)
+
+08. This[index] method complexity :
+	
+	public T this[int index]
+	{
+		get
+		{
+			return this.arr[index]; --> c1 constant time.
+		}
+	}
+
+	The run time of this algorithm is a constant O(1)
+
+09. First method complexity :
+	
+	public T First
+	{
+		get
+		{
+			return this.arr[0]; --> c1 constant time.
+		}
+	}
+
+	The run time of this algorithm is a constant O(1)
+
+10. Last method complexity :
+
+	public T Last
+	{
+		get
+		{
+			return this.arr[this.arr.Length - 1]; --> c1 constant time.
+		}
+	}
+
+	The run time of this algorithm is a constant O(1)

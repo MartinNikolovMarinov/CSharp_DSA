@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\03.Sorting\Sorting\bin\Debug\Sorting.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\03.Sorting\Sorting\bin\Debug\Sorting.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\03.Sorting\Sorting\bin\Debug\Sorting.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\03.Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\03.Sorting\Sorting\obj\Debug\Sorting.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\03.Sorting\Sorting\obj\Debug\Sorting.pdb

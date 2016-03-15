@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\01.FindTheRoot\bin\Debug\01.FindTheRoot.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\01.FindTheRoot\bin\Debug\01.FindTheRoot.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\01.FindTheRoot\bin\Debug\01.FindTheRoot.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\01.FindTheRoot\obj\Debug\01.FindTheRoot.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\01.FindTheRoot\obj\Debug\01.FindTheRoot.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\01.FindTheRoot\obj\Debug\01.FindTheRoot.pdb

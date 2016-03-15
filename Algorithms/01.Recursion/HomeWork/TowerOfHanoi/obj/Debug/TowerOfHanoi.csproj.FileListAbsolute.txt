@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

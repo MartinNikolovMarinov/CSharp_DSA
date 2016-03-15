@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\04.LongestPathInTree\bin\Debug\04.LongestPathInTree.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\04.LongestPathInTree\bin\Debug\04.LongestPathInTree.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\04.LongestPathInTree\bin\Debug\04.LongestPathInTree.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\04.LongestPathInTree\obj\Debug\04.LongestPathInTree.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\04.LongestPathInTree\obj\Debug\04.LongestPathInTree.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\04.LongestPathInTree\obj\Debug\04.LongestPathInTree.pdb

@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\PathsBetweenCellsInMatrix\bin\Debug\PathsBetweenCellsInMatrix.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\PathsBetweenCellsInMatrix\obj\Debug\PathsBetweenCellsInMatrix.pdb

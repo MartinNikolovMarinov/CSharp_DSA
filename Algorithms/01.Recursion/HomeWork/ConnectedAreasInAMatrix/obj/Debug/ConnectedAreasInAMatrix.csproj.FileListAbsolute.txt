@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\ConnectedAreasInAMatrix\bin\Debug\ConnectedAreasInAMatrix.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\ConnectedAreasInAMatrix\obj\Debug\ConnectedAreasInAMatrix.pdb

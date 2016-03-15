@@ -1,0 +1,9 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\bin\Debug\Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\bin\Debug\Tests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\bin\Debug\04.StringEditor.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\bin\Debug\PowerCollections.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\bin\Debug\04.StringEditor.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\bin\Debug\PowerCollections.xml
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\obj\Debug\Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\Tests\obj\Debug\Tests.pdb

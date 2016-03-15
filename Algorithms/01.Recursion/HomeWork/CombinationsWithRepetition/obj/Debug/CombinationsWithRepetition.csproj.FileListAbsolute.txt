@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb

@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\02.Sequence\bin\Debug\02.Sequence.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\bin\Debug\02.Sequence.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\bin\Debug\02.Sequence.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\bin\Debug\02.Sequence.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\obj\Debug\02.Sequence.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\obj\Debug\02.Sequence.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\02.Sequence\obj\Debug\02.Sequence.pdb

@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\bin\Debug\AritmeticExpressionsTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\bin\Debug\AritmeticExpressionsTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\bin\Debug\CalculateArithmeticExpression.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\bin\Debug\CalculateArithmeticExpression.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\obj\Debug\AritmeticExpressionsTests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\obj\Debug\AritmeticExpressionsTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\AritmeticExpressionsTests\obj\Debug\AritmeticExpressionsTests.pdb

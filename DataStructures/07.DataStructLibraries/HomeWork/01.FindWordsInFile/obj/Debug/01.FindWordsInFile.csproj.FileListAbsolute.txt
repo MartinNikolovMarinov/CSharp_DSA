@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\01.FindWordsInFile\bin\Debug\01.FindWordsInFile.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\01.FindWordsInFile\bin\Debug\01.FindWordsInFile.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\01.FindWordsInFile\bin\Debug\01.FindWordsInFile.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\01.FindWordsInFile\obj\Debug\01.FindWordsInFile.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\01.FindWordsInFile\obj\Debug\01.FindWordsInFile.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\01.FindWordsInFile\obj\Debug\01.FindWordsInFile.pdb

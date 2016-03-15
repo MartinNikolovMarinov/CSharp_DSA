@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\bin\Debug\01.ProductsInPriceRange.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\bin\Debug\01.ProductsInPriceRange.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\bin\Debug\01.ProductsInPriceRange.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\obj\Debug\01.ProductsInPriceRange.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\obj\Debug\01.ProductsInPriceRange.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\01.ProductsInPriceRange\obj\Debug\01.ProductsInPriceRange.pdb

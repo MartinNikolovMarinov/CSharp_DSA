@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\bin\Debug\07.LinkedQueueTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\bin\Debug\07.LinkedQueueTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\bin\Debug\07.LinkedQueue.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\bin\Debug\07.LinkedQueue.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\obj\Debug\07.LinkedQueueTests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\obj\Debug\07.LinkedQueueTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\07.LinkedQueue\07.LinkedQueueTests\obj\Debug\07.LinkedQueueTests.pdb

@@ -1,0 +1,5 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\03.RideTheHorse\bin\Debug\03.RideTheHorse.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\03.RideTheHorse\bin\Debug\03.RideTheHorse.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\03.RideTheHorse\bin\Debug\03.RideTheHorse.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\03.RideTheHorse\obj\Debug\03.RideTheHorse.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\03.RideTheHorse\obj\Debug\03.RideTheHorse.pdb

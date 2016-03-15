@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\bin\Debug\PowerCollections.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\bin\Debug\PowerCollections.xml
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.pdb

@@ -1,0 +1,5 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal\obj\Debug\DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

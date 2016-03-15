@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\02.BiDictionary\bin\Debug\02.BiDictionary.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\02.BiDictionary\bin\Debug\02.BiDictionary.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\02.BiDictionary\bin\Debug\02.BiDictionary.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\02.BiDictionary\obj\Debug\02.BiDictionary.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\02.BiDictionary\obj\Debug\02.BiDictionary.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\02.BiDictionary\obj\Debug\02.BiDictionary.csprojResolveAssemblyReference.cache

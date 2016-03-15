@@ -1,0 +1,12 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\PlayWithTrees\bin\Debug\PlayWithTrees.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\PlayWithTrees\bin\Debug\PlayWithTrees.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\PlayWithTrees\bin\Debug\PlayWithTrees.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\PlayWithTrees\obj\Debug\PlayWithTrees.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\PlayWithTrees\obj\Debug\PlayWithTrees.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\PlayWithTrees\obj\Debug\PlayWithTrees.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\bin\Debug\PlayWithTrees.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\obj\Debug\PlayWithTrees.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\obj\Debug\PlayWithTrees.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\bin\Debug\PlayWithTrees.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\bin\Debug\PlayWithTrees.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\obj\Debug\PlayWithTrees.csprojResolveAssemblyReference.cache

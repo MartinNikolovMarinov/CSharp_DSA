@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\Practice\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.pdb

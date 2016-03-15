@@ -1,0 +1,5 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\BalancedOrderedSet\bin\Debug\BalancedOrderedSet.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\BalancedOrderedSet\bin\Debug\BalancedOrderedSet.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\BalancedOrderedSet\bin\Debug\BalancedOrderedSet.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\BalancedOrderedSet\obj\Debug\BalancedOrderedSet.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\BalancedOrderedSet\obj\Debug\BalancedOrderedSet.pdb

@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\PowerCollections.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\PowerCollections.xml
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.pdb

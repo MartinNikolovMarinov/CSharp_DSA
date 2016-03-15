@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\bin\Debug\AATreeTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\bin\Debug\AATreeTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\bin\Debug\AATree.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\bin\Debug\AATree.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\obj\Debug\AATreeTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\AATreeTests\obj\Debug\AATreeTests.pdb

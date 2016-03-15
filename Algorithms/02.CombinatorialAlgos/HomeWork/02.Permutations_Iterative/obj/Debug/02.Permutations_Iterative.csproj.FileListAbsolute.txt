@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\02.Permutations_Iterative\bin\Debug\02.Permutations_Iterative.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\02.Permutations_Iterative\bin\Debug\02.Permutations_Iterative.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\02.Permutations_Iterative\bin\Debug\02.Permutations_Iterative.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\02.Permutations_Iterative\obj\Debug\02.Permutations_Iterative.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\02.Permutations_Iterative\obj\Debug\02.Permutations_Iterative.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\02.Permutations_Iterative\obj\Debug\02.Permutations_Iterative.pdb

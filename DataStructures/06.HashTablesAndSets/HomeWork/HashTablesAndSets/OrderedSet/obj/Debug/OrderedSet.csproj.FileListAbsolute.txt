@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\OrderedSet\bin\Debug\OrderedSet.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\OrderedSet\bin\Debug\OrderedSet.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\OrderedSet\bin\Debug\OrderedSet.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\OrderedSet\obj\Debug\OrderedSet.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\OrderedSet\obj\Debug\OrderedSet.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\OrderedSet\obj\Debug\OrderedSet.pdb

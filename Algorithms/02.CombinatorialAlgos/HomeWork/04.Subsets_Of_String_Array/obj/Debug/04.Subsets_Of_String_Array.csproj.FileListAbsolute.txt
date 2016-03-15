@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\04.Subsets_Of_String_Array\bin\Debug\04.Subsets_Of_String_Array.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\04.Subsets_Of_String_Array\obj\Debug\04.Subsets_Of_String_Array.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\04.Subsets_Of_String_Array\bin\Debug\04.Subsets_Of_String_Array.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\04.Subsets_Of_String_Array\bin\Debug\04.Subsets_Of_String_Array.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\04.Subsets_Of_String_Array\obj\Debug\04.Subsets_Of_String_Array.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\04.Subsets_Of_String_Array\obj\Debug\04.Subsets_Of_String_Array.pdb

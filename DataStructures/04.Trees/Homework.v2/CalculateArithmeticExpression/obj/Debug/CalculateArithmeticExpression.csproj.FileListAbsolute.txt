@@ -1,0 +1,12 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\CalculateArithmeticExpression\bin\Debug\CalculateArithmeticExpression.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\CalculateArithmeticExpression\bin\Debug\CalculateArithmeticExpression.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\CalculateArithmeticExpression\bin\Debug\CalculateArithmeticExpression.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\CalculateArithmeticExpression\obj\Debug\CalculateArithmeticExpression.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\CalculateArithmeticExpression\obj\Debug\CalculateArithmeticExpression.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\CalculateArithmeticExpression\obj\Debug\CalculateArithmeticExpression.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\CalculateArithmeticExpression\bin\Debug\CalculateArithmeticExpression.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\CalculateArithmeticExpression\obj\Debug\CalculateArithmeticExpression.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\CalculateArithmeticExpression\obj\Debug\CalculateArithmeticExpression.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\CalculateArithmeticExpression\bin\Debug\CalculateArithmeticExpression.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\CalculateArithmeticExpression\bin\Debug\CalculateArithmeticExpression.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\CalculateArithmeticExpression\obj\Debug\CalculateArithmeticExpression.csprojResolveAssemblyReference.cache

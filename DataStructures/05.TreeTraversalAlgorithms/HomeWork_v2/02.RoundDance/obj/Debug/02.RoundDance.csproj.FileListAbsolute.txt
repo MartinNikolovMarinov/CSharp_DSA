@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\02.RoundDance\bin\Debug\02.RoundDance.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\02.RoundDance\bin\Debug\02.RoundDance.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\02.RoundDance\bin\Debug\02.RoundDance.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\02.RoundDance\obj\Debug\02.RoundDance.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\02.RoundDance\obj\Debug\02.RoundDance.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\05.TreeTraversalAlgorithms\HomeWork_v2\02.RoundDance\obj\Debug\02.RoundDance.csprojResolveAssemblyReference.cache

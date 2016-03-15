@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Dictionary\bin\Debug\Dictionary.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Dictionary\bin\Debug\Dictionary.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Dictionary\bin\Debug\Dictionary.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Dictionary\obj\Debug\Dictionary.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Dictionary\obj\Debug\Dictionary.pdb

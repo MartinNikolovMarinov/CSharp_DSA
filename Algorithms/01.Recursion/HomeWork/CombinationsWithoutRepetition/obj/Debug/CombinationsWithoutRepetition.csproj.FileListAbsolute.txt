@@ -1,0 +1,5 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

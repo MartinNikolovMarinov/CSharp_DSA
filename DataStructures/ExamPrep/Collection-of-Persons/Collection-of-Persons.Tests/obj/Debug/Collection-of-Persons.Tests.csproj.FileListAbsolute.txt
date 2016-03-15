@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.Tests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\Collection-of-Persons.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\obj\Debug\Collection-of-Persons.Tests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Collection-of-Persons\Collection-of-Persons.Tests\bin\Debug\PowerCollections.dll

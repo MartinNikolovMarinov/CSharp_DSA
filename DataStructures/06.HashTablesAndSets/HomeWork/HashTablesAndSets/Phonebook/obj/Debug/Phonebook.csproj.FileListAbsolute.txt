@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\bin\Debug\Phonebook.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\bin\Debug\Phonebook.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\bin\Debug\Phonebook.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\obj\Debug\Phonebook.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\obj\Debug\Phonebook.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\bin\Debug\Dictionary.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\HomeWork\HashTablesAndSets\Phonebook\bin\Debug\Dictionary.pdb

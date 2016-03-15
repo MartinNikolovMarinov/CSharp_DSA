@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\bin\Debug\ArrayStackTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\bin\Debug\ArrayStackTests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\bin\Debug\03.ArrayStack.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\bin\Debug\03.ArrayStack.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\obj\Debug\ArrayStackTests.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\obj\Debug\ArrayStackTests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\ArrayStackTests\obj\Debug\ArrayStackTests.pdb

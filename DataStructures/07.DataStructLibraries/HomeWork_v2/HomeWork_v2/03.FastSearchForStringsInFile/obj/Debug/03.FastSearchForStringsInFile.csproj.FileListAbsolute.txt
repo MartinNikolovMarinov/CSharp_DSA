@@ -1,0 +1,5 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\03.FastSearchForStringsInFile\bin\Debug\03.FastSearchForStringsInFile.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\03.FastSearchForStringsInFile\bin\Debug\03.FastSearchForStringsInFile.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\03.FastSearchForStringsInFile\bin\Debug\03.FastSearchForStringsInFile.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\03.FastSearchForStringsInFile\obj\Debug\03.FastSearchForStringsInFile.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork_v2\HomeWork_v2\03.FastSearchForStringsInFile\obj\Debug\03.FastSearchForStringsInFile.pdb

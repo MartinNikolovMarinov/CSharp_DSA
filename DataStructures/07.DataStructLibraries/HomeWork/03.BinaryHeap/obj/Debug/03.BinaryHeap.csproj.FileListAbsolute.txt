@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\03.BinaryHeap\bin\Debug\03.BinaryHeap.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\03.BinaryHeap\bin\Debug\03.BinaryHeap.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\03.BinaryHeap\bin\Debug\03.BinaryHeap.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\03.BinaryHeap\obj\Debug\03.BinaryHeap.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\03.BinaryHeap\obj\Debug\03.BinaryHeap.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\03.BinaryHeap\obj\Debug\03.BinaryHeap.csprojResolveAssemblyReference.cache

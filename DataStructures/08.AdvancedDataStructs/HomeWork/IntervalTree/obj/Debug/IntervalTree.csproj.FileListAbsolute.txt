@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\bin\Debug\IntervalTree.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\bin\Debug\IntervalTree.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\bin\Debug\IntervalTree.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\obj\Debug\IntervalTree.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\obj\Debug\IntervalTree.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\obj\Debug\IntervalTree.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\bin\Debug\AATree.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\08.AdvancedDataStructs\HomeWork\IntervalTree\bin\Debug\AATree.pdb

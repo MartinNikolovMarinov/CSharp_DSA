@@ -1,0 +1,5 @@
+A hash-table for fast search by key1 (e.g. name)
+A hash-table for fast search by {key2 + key3} (e.g. name + town)
+A balanced search tree for fast extract-range(start_key … end_key)
+A rope for fast access-by-index
+A balanced search tree for fast access-by-sorted-index

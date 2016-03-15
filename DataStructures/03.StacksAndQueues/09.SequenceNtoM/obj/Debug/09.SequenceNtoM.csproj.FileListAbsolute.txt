@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\09.SequenceNtoM\bin\Debug\09.SequenceNtoM.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\09.SequenceNtoM\bin\Debug\09.SequenceNtoM.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\09.SequenceNtoM\bin\Debug\09.SequenceNtoM.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\09.SequenceNtoM\obj\Debug\09.SequenceNtoM.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\09.SequenceNtoM\obj\Debug\09.SequenceNtoM.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\03.StacksAndQueues\09.SequenceNtoM\obj\Debug\09.SequenceNtoM.pdb

@@ -1,0 +1,6 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\NestedLoops\bin\Debug\NestedLoops.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\NestedLoops\bin\Debug\NestedLoops.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\NestedLoops\bin\Debug\NestedLoops.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\NestedLoops\obj\Debug\NestedLoops.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\NestedLoops\obj\Debug\NestedLoops.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\01.Recursion\HomeWork\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache

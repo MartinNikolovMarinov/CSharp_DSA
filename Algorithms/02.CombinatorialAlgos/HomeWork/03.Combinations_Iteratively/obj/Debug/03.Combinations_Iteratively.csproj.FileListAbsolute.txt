@@ -1,0 +1,5 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\03.Combinations_Iteratively\bin\Debug\03.Combinations_Iteratively.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\03.Combinations_Iteratively\bin\Debug\03.Combinations_Iteratively.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\03.Combinations_Iteratively\bin\Debug\03.Combinations_Iteratively.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\03.Combinations_Iteratively\obj\Debug\03.Combinations_Iteratively.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\03.Combinations_Iteratively\obj\Debug\03.Combinations_Iteratively.pdb

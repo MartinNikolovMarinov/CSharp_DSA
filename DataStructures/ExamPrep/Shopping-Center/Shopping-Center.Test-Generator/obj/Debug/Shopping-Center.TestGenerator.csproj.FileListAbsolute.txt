@@ -1,0 +1,8 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.Tests.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\PowerCollections.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\obj\Debug\Shopping-Center.TestGenerator.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\obj\Debug\Shopping-Center.Tests.dll
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\ExamPrep\Shopping-Center\Shopping-Center.Test-Generator\obj\Debug\Shopping-Center.Tests.pdb

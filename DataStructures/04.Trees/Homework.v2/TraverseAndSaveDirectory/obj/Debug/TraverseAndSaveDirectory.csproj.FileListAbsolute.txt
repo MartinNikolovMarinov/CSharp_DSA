@@ -1,0 +1,12 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\TraverseAndSaveDirectory\bin\Debug\TraverseAndSaveDirectory.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\TraverseAndSaveDirectory\bin\Debug\TraverseAndSaveDirectory.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\TraverseAndSaveDirectory\bin\Debug\TraverseAndSaveDirectory.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\TraverseAndSaveDirectory\obj\Debug\TraverseAndSaveDirectory.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\TraverseAndSaveDirectory\obj\Debug\TraverseAndSaveDirectory.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\PlayWithTrees\TraverseAndSaveDirectory\obj\Debug\TraverseAndSaveDirectory.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\TraverseAndSaveDirectory\bin\Debug\TraverseAndSaveDirectory.exe.config
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\TraverseAndSaveDirectory\bin\Debug\TraverseAndSaveDirectory.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\TraverseAndSaveDirectory\bin\Debug\TraverseAndSaveDirectory.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\TraverseAndSaveDirectory\obj\Debug\TraverseAndSaveDirectory.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\TraverseAndSaveDirectory\obj\Debug\TraverseAndSaveDirectory.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Homework.v2\TraverseAndSaveDirectory\obj\Debug\TraverseAndSaveDirectory.pdb
