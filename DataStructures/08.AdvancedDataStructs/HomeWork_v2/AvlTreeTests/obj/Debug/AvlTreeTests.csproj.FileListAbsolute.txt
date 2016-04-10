@@ -1,0 +1,7 @@
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeTests.dll
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeTests.pdb
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeLab.exe
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeLab.pdb
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.dll
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.pdb

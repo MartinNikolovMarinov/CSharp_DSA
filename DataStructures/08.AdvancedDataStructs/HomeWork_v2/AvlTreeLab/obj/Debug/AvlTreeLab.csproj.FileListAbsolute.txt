@@ -1,0 +1,6 @@
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeLab\bin\Debug\AvlTreeLab.exe.config
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeLab\bin\Debug\AvlTreeLab.exe
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeLab\bin\Debug\AvlTreeLab.pdb
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeLab\obj\Debug\AvlTreeLab.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeLab\obj\Debug\AvlTreeLab.exe
+C:\Users\Martin\Downloads\8. AvlTree-Skeleton\8. AvlTree-Skeleton\AvlTreeLab\obj\Debug\AvlTreeLab.pdb

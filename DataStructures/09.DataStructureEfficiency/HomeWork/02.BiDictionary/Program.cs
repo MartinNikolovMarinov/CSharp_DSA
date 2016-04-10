@@ -39,7 +39,7 @@
             distances.Remove("Sofia", "Varna"); // true
             var distancesFromSofiaAgain = distances.FindByKey1("Sofia"); // [145, 383]
             var distancesToVarna = distances.FindByKey2("Varna"); // []
-            var distancesSofiaVarnaAgain = distances.Find("Sofia", "Varna"); // []
+            var distancesSofiaVarnaAgain = distances.Find("Sofia", "Varna"); // []+
         }
     }
 }

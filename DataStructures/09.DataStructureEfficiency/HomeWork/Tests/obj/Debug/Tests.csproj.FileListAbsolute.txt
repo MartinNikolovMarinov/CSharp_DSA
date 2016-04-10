@@ -7,3 +7,12 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\Hom
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\PowerCollections.xml
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\obj\Debug\Tests.dll
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\obj\Debug\Tests.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\Tests.dll
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\Tests.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\03.CollectionOfProducts.exe
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\PowerCollections.dll
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\03.CollectionOfProducts.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\bin\Debug\PowerCollections.xml
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\obj\Debug\Tests.dll
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\Tests\obj\Debug\Tests.pdb

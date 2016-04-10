@@ -4,3 +4,9 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\Hom
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.csprojResolveAssemblyReference.cache
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.exe
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\bin\Debug\01.StudentsAndCourses.exe.config
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.exe
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\bin\Debug\01.StudentsAndCourses.exe
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\bin\Debug\01.StudentsAndCourses.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\01.StudentsAndCourses\obj\Debug\01.StudentsAndCourses.csprojResolveAssemblyReference.cache

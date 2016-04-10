@@ -6,3 +6,11 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\Hom
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.csprojResolveAssemblyReference.cache
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.exe
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.exe.config
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.exe
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.exe
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\03.CollectionOfProducts.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\PowerCollections.dll
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\bin\Debug\PowerCollections.xml
+J:\GitRepo\CSharp_DSA\DataStructures\09.DataStructureEfficiency\HomeWork\03.CollectionOfProducts\obj\Debug\03.CollectionOfProducts.csprojResolveAssemblyReference.cache
