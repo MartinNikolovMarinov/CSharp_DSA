@@ -4,3 +4,9 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\05.
 J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\obj\Debug\05.Permutations_With_Repetition.csprojResolveAssemblyReference.cache
 J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\obj\Debug\05.Permutations_With_Repetition.exe
 J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\obj\Debug\05.Permutations_With_Repetition.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\bin\Debug\05.Permutations_With_Repetition.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\obj\Debug\05.Permutations_With_Repetition.exe
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\obj\Debug\05.Permutations_With_Repetition.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\bin\Debug\05.Permutations_With_Repetition.exe
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\bin\Debug\05.Permutations_With_Repetition.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\05.Permutations_With_Repetition\obj\Debug\05.Permutations_With_Repetition.csprojResolveAssemblyReference.cache

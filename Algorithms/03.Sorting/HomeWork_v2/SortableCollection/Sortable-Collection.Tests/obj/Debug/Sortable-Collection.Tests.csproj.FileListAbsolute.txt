@@ -1,0 +1,7 @@
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+J:\GitRepo\CSharp_DSA\Algorithms\03.Sorting\HomeWork_v2\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb

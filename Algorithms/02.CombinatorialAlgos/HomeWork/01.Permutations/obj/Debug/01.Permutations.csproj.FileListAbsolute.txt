@@ -4,3 +4,6 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\01.
 J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\01.Permutations\bin\Debug\01.Permutations.pdb
 J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\01.Permutations\obj\Debug\01.Permutations.exe
 J:\GitRepo\SoftUniHomeWorks_CSharp\Algorithms\02.CombinatorialAlgos\HomeWork\01.Permutations\obj\Debug\01.Permutations.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\01.Permutations\bin\Debug\01.Permutations.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\01.Permutations\obj\Debug\01.Permutations.exe
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\01.Permutations\obj\Debug\01.Permutations.pdb

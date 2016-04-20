@@ -1,0 +1,6 @@
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\06.Snakes\bin\Debug\06.Snakes.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\06.Snakes\bin\Debug\06.Snakes.exe
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\06.Snakes\bin\Debug\06.Snakes.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\06.Snakes\obj\Debug\06.Snakes.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\06.Snakes\obj\Debug\06.Snakes.exe
+J:\GitRepo\CSharp_DSA\Algorithms\02.CombinatorialAlgos\HomeWork\06.Snakes\obj\Debug\06.Snakes.pdb
