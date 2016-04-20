@@ -1,6 +1,7 @@
 ﻿namespace DS_ImplementationTests.Linear.HashTables
 {
     using System;
+    using System.Linq;
     using System.Collections;
     using System.Collections.Generic;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -89,12 +90,33 @@
         }
 
         [TestMethod]
+        public void GetAllValuesAndKeysTest()
+        {
+            ChainHashTable<int, string> test = new ChainHashTable<int, string>();
+            test.AddOrReplace(1, "abc");
+            test.AddOrReplace(1, "aaa");
+            test.AddOrReplace(5, "ccc");
+            test.AddOrReplace(2, "bbb");
+
+            CollectionAssert.AreEqual(new int[] {1, 2, 5}, test.Keys.ToArray());
+            CollectionAssert.AreEqual(new string[] { "aaa", "bbb", "ccc"}, test.Values.ToArray());
+        }
+
+        [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
         public void ExistingElement()
         {
             ChainHashTable<int, int> test = new ChainHashTable<int, int>();
             test.Add(1, 1);
             test.Add(1, 5);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(KeyNotFoundException))]     
+        public void KeyNotFound()
+        {
+            ChainHashTable<int, int> test = new ChainHashTable<int, int>();
+            test.Get(1);
         }
     }
 }

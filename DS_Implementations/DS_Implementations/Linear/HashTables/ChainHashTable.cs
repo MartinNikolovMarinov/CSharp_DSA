@@ -65,16 +65,12 @@
             GrowIfNeeded();
             int slothNumber = this.FindSlothNumber(key);
             if (this.slots[slothNumber] == null)
-            {
                 this.slots[slothNumber] = new LinkedList<KeyValue<TKey, TValue>>();
-            }
 
             foreach (var element in this.slots[slothNumber])
             {
                 if (element.Key.Equals(key))
-                {
                     throw new ArgumentException("Key already exists: " + key);
-                }
             }
 
             var newElement = new KeyValue<TKey, TValue>(key, value);
@@ -105,9 +101,7 @@
                 foreach (var currElem in listOfElements)
                 {
                     if (currElem.Equals(element))
-                    {
                         currElem.Value = newElement.Value;
-                    }
                 }
 
                 return true;
@@ -119,9 +113,7 @@
             var element = this.Find(key);
 
             if (element == null)
-            {
                 throw new KeyNotFoundException();
-            }
 
             return element.Value;
         }

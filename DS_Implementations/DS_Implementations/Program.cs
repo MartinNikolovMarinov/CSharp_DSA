@@ -5,10 +5,10 @@
     using System.Collections.Generic;
     using System.Collections;
 
+    using Linear.DoublyLinkedList;
+
     class Program
     {
-        private static Random rnd = new Random();
-
         static void Main(string[] args)
         {
             
