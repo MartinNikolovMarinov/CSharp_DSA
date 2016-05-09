@@ -1,0 +1,6 @@
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\04.Salaries\bin\Debug\04.Salaries.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\04.Salaries\bin\Debug\04.Salaries.exe
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\04.Salaries\bin\Debug\04.Salaries.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\04.Salaries\obj\Debug\04.Salaries.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\04.Salaries\obj\Debug\04.Salaries.exe
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\04.Salaries\obj\Debug\04.Salaries.pdb

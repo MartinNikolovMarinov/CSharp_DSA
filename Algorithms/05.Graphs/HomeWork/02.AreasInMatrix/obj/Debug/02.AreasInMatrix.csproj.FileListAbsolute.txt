@@ -1,0 +1,6 @@
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.exe
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.exe
+J:\GitRepo\CSharp_DSA\Algorithms\05.Graphs\HomeWork\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.pdb
