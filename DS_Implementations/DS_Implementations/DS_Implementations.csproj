@@ -52,6 +52,7 @@
     <Compile Include="Trees\BinaryNode.cs" />
     <Compile Include="Trees\Heap\Heap.cs" />
     <Compile Include="Trees\Heap\MaxHeap.cs" />
+    <Compile Include="Trees\Heap\MinHeap.cs" />
     <Compile Include="Trees\TraverseOption.cs" />
   </ItemGroup>
   <ItemGroup>
