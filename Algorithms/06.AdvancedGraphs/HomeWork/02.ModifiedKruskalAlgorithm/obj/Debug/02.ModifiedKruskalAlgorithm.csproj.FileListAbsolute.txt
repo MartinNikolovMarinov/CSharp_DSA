@@ -1,0 +1,6 @@
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\HomeWork\02.ModifiedKruskalAlgorithm\bin\Debug\02.ModifiedKruskalAlgorithm.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\HomeWork\02.ModifiedKruskalAlgorithm\bin\Debug\02.ModifiedKruskalAlgorithm.exe
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\HomeWork\02.ModifiedKruskalAlgorithm\bin\Debug\02.ModifiedKruskalAlgorithm.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\HomeWork\02.ModifiedKruskalAlgorithm\obj\Debug\02.ModifiedKruskalAlgorithm.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\HomeWork\02.ModifiedKruskalAlgorithm\obj\Debug\02.ModifiedKruskalAlgorithm.exe
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\HomeWork\02.ModifiedKruskalAlgorithm\obj\Debug\02.ModifiedKruskalAlgorithm.pdb

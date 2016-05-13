@@ -1,0 +1,15 @@
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\Users\Martin\Downloads\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\Martin\Downloads\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\Martin\Downloads\6. Advanced-Graph-Algorithms-Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.exe
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\06.AdvancedGraphs\Lab\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
