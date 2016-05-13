@@ -1,0 +1,2 @@
+In MST, requirement is to reach each vertex once (create graph tree) and total (collective) 
+cost of reaching each vertex is required to be minimum among all possible combinations.

@@ -1,0 +1,3 @@
+In Shortest Path, requirement is to reach destination vertex from source vertex with lowest 
+possible cost (shortest weight). So here we do not worry about reaching each vertex instead 
+only focus on source and destination vertices.
