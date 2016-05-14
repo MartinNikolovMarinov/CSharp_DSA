@@ -1,0 +1,6 @@
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\02.RectangleIntersection\bin\Debug\02.RectangleIntersection.exe.config
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\02.RectangleIntersection\bin\Debug\02.RectangleIntersection.exe
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\02.RectangleIntersection\bin\Debug\02.RectangleIntersection.pdb
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\02.RectangleIntersection\obj\Debug\02.RectangleIntersection.exe
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\02.RectangleIntersection\obj\Debug\02.RectangleIntersection.pdb
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\02.RectangleIntersection\obj\Debug\02.RectangleIntersection.csprojResolveAssemblyReference.cache

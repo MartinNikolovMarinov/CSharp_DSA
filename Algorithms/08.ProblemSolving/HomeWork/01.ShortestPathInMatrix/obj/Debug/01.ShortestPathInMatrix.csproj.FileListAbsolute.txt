@@ -1,0 +1,6 @@
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\01.ShortestPathInMatrix\bin\Debug\_01.ShortestPathInMatrix.exe.config
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\01.ShortestPathInMatrix\bin\Debug\_01.ShortestPathInMatrix.exe
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\01.ShortestPathInMatrix\bin\Debug\_01.ShortestPathInMatrix.pdb
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\01.ShortestPathInMatrix\obj\Debug\01.ShortestPathInMatrix.csprojResolveAssemblyReference.cache
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\01.ShortestPathInMatrix\obj\Debug\_01.ShortestPathInMatrix.exe
+E:\Git\CSharp_DSA\Algorithms\08.ProblemSolving\HomeWork\01.ShortestPathInMatrix\obj\Debug\_01.ShortestPathInMatrix.pdb
