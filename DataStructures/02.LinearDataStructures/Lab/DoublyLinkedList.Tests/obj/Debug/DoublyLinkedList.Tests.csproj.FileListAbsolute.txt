@@ -1,0 +1,7 @@
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+J:\GitRepo\CSharp_DSA\DataStructures\02.LinearDataStructures\Lab\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

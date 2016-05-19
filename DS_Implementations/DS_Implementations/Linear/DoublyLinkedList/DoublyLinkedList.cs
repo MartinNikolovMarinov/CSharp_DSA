@@ -1,254 +1,131 @@
 ﻿namespace DS_Implementations.Linear.DoublyLinkedList
 {
     using System;
+    using System.Text;
     using System.Collections;
     using System.Collections.Generic;
-    using System.Text;
 
     public class DoublyLinkedList<T> : IEnumerable<T>
     {
-        public class Node
+        private class Node<K>
         {
-            public T Value { get; set; }
-            public Node Next { get; set; }
-            public Node Prev { get; set; }
-
-            public Node(T val)
+            public Node(K val)
             {
                 this.Value = val;
                 this.Next = null;
                 this.Prev = null;
             }
 
+            public K Value { get; set; }
+            public Node<K> Next { get; set; }
+            public Node<K> Prev { get; set; }
+
             public override string ToString()
             {
-                return this.Value.ToString();
+                return string.Format("{0}", this.Value);
             }
         }
 
-        // Fields :
-        private Node head;
-        private Node tail;
-
-        // Properties :
+        private Node<T> head;
+        private Node<T> tail;
         public int Count { get; private set; }
-        public bool IsReadOnly { get { return false; } }
-        public Node First { get { return this.head; } }
-        public Node Last { get { return this.tail; } }
 
-        public DoublyLinkedList() 
+        public void AddFirst(T element)
         {
-            this.head = null;
-            this.tail = null;
-            this.Count = 0;
-        }
-
-        // Methods :
-        public void AddLast(T item)
-        {
-            var newNode = new Node(item);
-
-            if (this.Count == 0)
+            var node = new Node<T>(element);
+            if (Count == 0)
             {
-                this.head = newNode;
-                this.tail = newNode;
-            }
-            else if (this.Count == 1)
-            {
-                this.head.Next = newNode;
-                newNode.Prev = this.head;
-                this.tail = newNode;
-            } 
-            else
-            {
-                this.tail.Next = newNode;
-                newNode.Prev = this.tail;
-                this.tail = newNode;
-            }
-
-            this.Count++;
-        }
-
-        public void AddFirst(T item)
-        {
-            var newNode = new Node(item);
-
-            if (this.Count == 0)
-            {
-                this.head = newNode;
-                this.tail = newNode;
-            }
-            else if (this.Count == 1)
-            {
-                this.head.Prev = newNode;
-                newNode.Next = this.head;
-                this.tail = this.head;
-                this.head = newNode;
-
+                head = node;
+                tail = node;
             }
             else
             {
-                newNode.Next = this.head;
-                newNode.Next.Prev = newNode;
-                this.head = newNode;
+                var prev = head;
+                head = node;
+                head.Next = prev;
+                if (head.Next == tail)
+                    tail.Prev = head;
             }
 
-            this.Count++;
+            Count++;
         }
 
-        public void AddAfter(Node node, T value)
+        public void AddLast(T element)
         {
-            var newNode = new Node(value);
-
-            if (node.Next == null)
+            var node = new Node<T>(element);
+            if (Count == 0)
             {
-                node.Next = newNode;
+                head = node;
+                tail = node;
             }
             else
             {
-                newNode.Next = node.Next;
-                node.Next = newNode;
+                if (head == tail)
+                    head.Next = node;
+                var prev = tail;
+                tail.Next = node;
+                tail = node;
+                tail.Prev = prev;
             }
 
-            this.Count++;
+            Count++;
         }
 
-        public void AddBefore(Node node, T value)
+        public T RemoveFirst()
         {
-            var newNode = new Node(value);
+            if (Count == 0)
+                throw new InvalidOperationException("No elements in List.");
 
-            if (node.Prev == null)
+            Count--;
+            var elem = head.Value;
+            if (head == tail)
             {
-                node.Prev = newNode;
+                head = null;
+                tail = null;
             }
             else
             {
-                newNode.Prev = node.Prev;
-                node.Prev = newNode;
+                head = head.Next;
+                if (head.Prev != null)
+                    head.Prev = null;
             }
 
-            this.Count++;
+            return elem;
         }
 
-        public void Clear()
+        public T RemoveLast()
         {
-            this.head = null;
-            this.tail = null;
-            this.Count = 0;
-        }
+            if (Count == 0)
+                throw new InvalidOperationException("No elements in List.");
 
-        public bool Contains(T item)
-        {
-            foreach (var elem in this)
+            Count--;
+            var elem = tail.Value;
+            if (head == tail)
             {
-                if (elem.Equals(item))
-                    return true;
+                head = null;
+                tail = null;
+            }
+            else
+            {
+                tail = tail.Prev;
+                if (tail.Next != null)
+                    tail.Next = null;
             }
 
-            return false;
+            return elem;
         }
 
-        public bool Remove(T item)
+        public void ForEach(Action<T> action)
         {
-            bool deleted = false;
-
-            if (this.Count == 1)
+            foreach (var item in this)
             {
-                if (this.head.Value.Equals(item))
-                {
-                    this.Clear();
-                    deleted = true;
-                }
-            }
-            else if (this.Count == 2)
-            {
-                if (this.head.Value.Equals(item))
-                {
-                    this.head = this.tail;
-                    this.head.Prev = null;
-                    deleted = true;
-                }
-                else if (this.tail.Value.Equals(item))
-                {
-                    this.tail = this.head;
-                    this.head.Next = null;
-                    deleted = true;
-                }
-            }
-            else if (this.Count > 2)
-            {
-                foreach (var node in this.EnumarateNodes())
-                {
-                    if (node.Value.Equals(item))
-                    {
-                        var next = node.Next;
-                        var prev = node.Prev;
-
-                        if (next != null)
-                            next.Prev = prev;
-                        else
-                            this.tail = prev;
-
-                        if (prev != null)
-                            prev.Next = next;
-                        else
-                            this.head = next;
-                        
-                        deleted = true;
-                        break;
-                    }    
-                }
-            }
-
-            if (deleted)
-                this.Count--;
-
-            return deleted;
-        }
-
-        public void CopyTo(T[] array, int arrayIndex)
-        {
-            int i = 0;
-            foreach (var elem in this)
-            {
-                array[arrayIndex + i] = elem;
-                i++;
-            }
-        }
-
-        public Node GetNodeAt(int index)
-        {
-            if (index < 0 || index >= this.Count)
-                throw new ArgumentOutOfRangeException();
-
-            int i = -1;
-            foreach (var elem in this.EnumarateNodes())
-            {
-                if (++i == index)
-                    return elem;
-            }
-
-            throw new KeyNotFoundException();
-        }
-
-        public Node this[int key] 
-        {
-            get { return this.GetNodeAt(key); } 
-        }
-
-        public IEnumerable<Node> EnumarateNodes()
-        {
-            Node curr = this.head;
-            while (curr != null)
-            {
-                yield return curr;
-                curr = curr.Next;
+                action(item);
             }
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            Node curr = this.head;
+            var curr = head;
             while (curr != null)
             {
                 yield return curr.Value;
@@ -261,10 +138,22 @@
             return this.GetEnumerator();
         }
 
+        public T[] ToArray()
+        {
+            T[] arr = new T[this.Count];
+            int i = 0;
+            foreach (var item in this)
+            {
+                arr[i++] = item;
+            }
+
+            return arr;
+        }
+
 #if DEBUG
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            var sb = new StringBuilder();
             foreach (var elem in this)
             {
                 sb.AppendFormat("{0}, ", elem);
