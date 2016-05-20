@@ -1,0 +1,16 @@
+Things implemented so far.
+Linear :
+	1. list.
+		- doubly linked list with class node.
+		- doubly linked list with arr.
+	2. queue.
+		- circular queue.
+	2. hash table.
+		- with chaingin.
+Trees :
+	1. Binary tree.
+		- AA tree.
+		- AVL tree.
+	2. Heap.
+		- Max Heap.
+		- Min Heap.

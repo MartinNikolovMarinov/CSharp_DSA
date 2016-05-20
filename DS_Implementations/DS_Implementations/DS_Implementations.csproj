@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Global.cs" />
     <Compile Include="Linear\DoublyLinkedList\DoublyLinkedList.cs" />
+    <Compile Include="Linear\DoublyLinkedList\DoublyLinkedListWithArr.cs" />
     <Compile Include="Linear\HashTables\ChainHashTable.cs" />
     <Compile Include="Linear\HashTables\KeyValue.cs" />
     <Compile Include="Program.cs" />

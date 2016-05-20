@@ -4,89 +4,63 @@ using System.Collections.Generic;
 
 public class DoublyLinkedList<T> : IEnumerable<T>
 {
-    private class Node<K>
+    private static int DEFAULT_CAPACITY = 8;
+    private T[] src;
+    private int head;
+    private int tail;
+    public int Count { get; private set; }
+
+    public DoublyLinkedList()
     {
-        public Node(K val)
-        {
-            this.Value = val;
-            this.Next = null;
-            this.Prev = null;
-        }
-
-        public K Value { get; set; }
-        public Node<K> Next { get; set; }
-        public Node<K> Prev { get; set; }
-
-        public override string ToString()
-        {
-            return string.Format("{0}", this.Value);
-        }
+        src = new T[DEFAULT_CAPACITY];
+        head = src.Length / 2;
+        tail = src.Length / 2;
     }
 
-    private Node<T> head;
-    private Node<T> tail;
-    public int Count { get; private set; }
+    private void Grow()
+    {
+        int i, start;
+        var arr = new T[src.Length * 2];
+
+        start = arr.Length / 2 - Count / 2;
+        for (i = 0; i < Count; i++)
+        {
+            arr[i + start] = src[head + i];
+        }
+
+        tail = start + i - 1;
+        head = start;
+        src = arr;
+    }
 
     public void AddFirst(T element)
     {
-        var node = new Node<T>(element);
-        if (Count == 0)
-        {
-            head = node;
-            tail = node;
-        }
-        else
-        {
-            var prev = head;
-            head = node;
-            head.Next = prev;
-            if (head.Next == tail)
-                tail.Prev = head;
-        }
-
+        if (head - 1 < 0)
+            Grow();
         Count++;
+        if (Count == 1)
+            src[head] = element;
+        else
+            src[--head] = element;
     }
 
     public void AddLast(T element)
     {
-        var node = new Node<T>(element);
-        if (Count == 0)
-        {
-            head = node;
-            tail = node;
-        }
-        else
-        {
-            if (head == tail)
-                head.Next = node;
-            var prev = tail;
-            tail.Next = node;
-            tail = node;
-            tail.Prev = prev;
-        }
-
+        if (tail + 1 >= src.Length)
+            Grow();
         Count++;
+        if (Count == 1)
+            src[head] = element;
+        else
+            src[++tail] = element;
     }
 
     public T RemoveFirst()
     {
         if (Count == 0)
             throw new InvalidOperationException("No elements in List.");
-
         Count--;
-        var elem = head.Value;
-        if (head == tail)
-        {
-            head = null;
-            tail = null;
-        }
-        else
-        {
-            head = head.Next;
-            if (head.Prev != null)
-                head.Prev = null;
-        }
-
+        var elem = src[head++];
         return elem;
     }
 
@@ -94,21 +68,8 @@ public class DoublyLinkedList<T> : IEnumerable<T>
     {
         if (Count == 0)
             throw new InvalidOperationException("No elements in List.");
-
         Count--;
-        var elem = tail.Value;
-        if (head == tail)
-        {
-            head = null;
-            tail = null;
-        }
-        else
-        {
-            tail = tail.Prev;
-            if (tail.Next != null)
-                tail.Next = null;
-        }
-        
+        var elem = src[tail--];
         return elem;
     }
 
@@ -122,11 +83,12 @@ public class DoublyLinkedList<T> : IEnumerable<T>
 
     public IEnumerator<T> GetEnumerator()
     {
-        var curr = head;
-        while (curr != null)
+        if (Count != 0)
         {
-            yield return curr.Value;
-            curr = curr.Next;
+            for (int i = head; i <= tail; i++)
+            {
+                yield return src[i];
+            }
         }
     }
 
@@ -145,5 +107,18 @@ public class DoublyLinkedList<T> : IEnumerable<T>
         }
 
         return arr;
+    }
+}
+
+public class Prog
+{
+    public static void Main()
+    {
+        // Arrange
+        var list = new DoublyLinkedList<int>();
+
+        // Act
+        var items = new List<int>();
+        list.ForEach(items.Add);
     }
 }

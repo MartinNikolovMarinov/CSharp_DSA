@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Binary-Tree\bin\Debug\Trees.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Binary-Tree\bin\Debug\Trees.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Binary-Tree\obj\Debug\Trees.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\04.Trees\Binary-Tree\obj\Debug\Trees.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\04.Trees\Lab\Binary-Tree\obj\Debug\Trees.exe
+J:\GitRepo\CSharp_DSA\DataStructures\04.Trees\Lab\Binary-Tree\obj\Debug\Trees.pdb

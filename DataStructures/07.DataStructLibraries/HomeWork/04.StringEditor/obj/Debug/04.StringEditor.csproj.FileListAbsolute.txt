@@ -6,3 +6,11 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWor
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\obj\Debug\04.StringEditor.csprojResolveAssemblyReference.cache
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\obj\Debug\04.StringEditor.exe
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\obj\Debug\04.StringEditor.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\bin\Debug\04.StringEditor.exe.config
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\obj\Debug\04.StringEditor.exe
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\obj\Debug\04.StringEditor.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\bin\Debug\04.StringEditor.exe
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\bin\Debug\04.StringEditor.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\bin\Debug\PowerCollections.dll
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\bin\Debug\PowerCollections.xml
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\04.StringEditor\obj\Debug\04.StringEditor.csprojResolveAssemblyReference.cache

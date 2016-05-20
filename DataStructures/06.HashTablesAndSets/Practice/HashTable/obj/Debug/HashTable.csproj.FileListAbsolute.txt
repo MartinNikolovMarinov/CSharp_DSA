@@ -1,0 +1,7 @@
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\bin\Debug\HashTable.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\bin\Debug\HashTable.pdb
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\obj\Debug\HashTable.exe
+J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\obj\Debug\HashTable.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\obj\Debug\HashTable.exe
+J:\GitRepo\CSharp_DSA\DataStructures\06.HashTablesAndSets\Practice\HashTable\HashTable\obj\Debug\HashTable.pdb

@@ -6,3 +6,6 @@ J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWor
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.csprojResolveAssemblyReference.cache
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.exe
 J:\GitRepo\SoftUniHomeWorks_CSharp\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.pdb
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\bin\Debug\02.ProductsInPriceRange.exe.config
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.exe
+J:\GitRepo\CSharp_DSA\DataStructures\07.DataStructLibraries\HomeWork\02.ProductsInPriceRange\obj\Debug\02.ProductsInPriceRange.pdb
