@@ -74,7 +74,6 @@
         private static int FindRoot()
         {
             var root = parents.FirstOrDefault(node => node.Value == null).Key;
-
             return root;
         }
 
