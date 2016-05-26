@@ -1,0 +1,6 @@
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\Factorial-Performance\bin\Debug\Factorial-Performance.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\Factorial-Performance\bin\Debug\Factorial-Performance.exe
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\Factorial-Performance\bin\Debug\Factorial-Performance.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\Factorial-Performance\obj\Debug\02. Factorial Performance.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\Factorial-Performance\obj\Debug\Factorial-Performance.exe
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\Factorial-Performance\obj\Debug\Factorial-Performance.pdb

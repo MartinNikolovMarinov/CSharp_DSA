@@ -1,0 +1,7 @@
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.dll
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.exe
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.dll
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.pdb

@@ -1,0 +1,1 @@
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\InfiniteRecursion\bin\Debug\InfiniteRecursion.exe.config

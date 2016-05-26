@@ -1,0 +1,7 @@
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.dll
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.exe
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.dll
+J:\GitRepo\CSharp_DSA\Algorithms\04.DynamicProgramming\Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.pdb

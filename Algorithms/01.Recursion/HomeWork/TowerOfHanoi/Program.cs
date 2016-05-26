@@ -29,15 +29,7 @@
 
         static void MoveDisks(int bottomDisk, Stack<int> source, Stack<int> destination, Stack<int> spare)
         {
-            
-            if (bottomDisk == 1)
-            {
-                stepsTaken++;
-                destination.Push(source.Pop());
-                Console.WriteLine("Step #{0}: Moved disk {1}", stepsTaken, bottomDisk);
-                PrintRods();
-            }
-            else 
+            if (bottomDisk > 0)
             {
                 MoveDisks(bottomDisk - 1, source, spare, destination);
 

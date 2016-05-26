@@ -1,0 +1,5 @@
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\RecursiveFactorial\obj\Debug\01. Recursive Factorial.csprojResolveAssemblyReference.cache
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

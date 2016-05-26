@@ -1,0 +1,6 @@
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\02.QueensPuzzle\bin\Debug\02.QueensPuzzle.exe.config
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\02.QueensPuzzle\bin\Debug\02.QueensPuzzle.exe
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\02.QueensPuzzle\bin\Debug\02.QueensPuzzle.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\02.QueensPuzzle\obj\Debug\02.QueensPuzzle.exe
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\02.QueensPuzzle\obj\Debug\02.QueensPuzzle.pdb
+J:\GitRepo\CSharp_DSA\Algorithms\01.Recursion\Lab\02.QueensPuzzle\obj\Debug\02.QueensPuzzle.csprojResolveAssemblyReference.cache
